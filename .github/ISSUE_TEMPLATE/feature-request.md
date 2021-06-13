@@ -15,18 +15,18 @@ assignees: ''
 3.  Find a relevant title to summarize the feature request.
 4. Remember that the contents of the issue will be publicly visible so make sure not to include any sensitive information.         -->
 
-**Checklist**
+**Checklist:**
 - [ ] I have read and agree to the [README](https://github.com/Minefly/minefly#readme)
 - [ ] This is not a bug report, support request or plugin request
 - [ ] I have made sure this issue is not a duplicate
 
-**Platform**
+**Platform:**
 <!-- Which platform is this idea for? In-game or on Discord or on the website? -->
 
-**Describe the feature**
+**Describe the feature:**
 <!-- A clear explanation of the feature-->
 
-**Utility**
+**Utility:**
 <!-- Why is this feature useful? -->
 
 
