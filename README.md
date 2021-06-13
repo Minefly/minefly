@@ -1,6 +1,6 @@
 # Minefly
 
-Here you can report bugs and suggest new features or make improvements to existing ones for Minefly.
+Here you can report bugs and suggest new features or changes to existing ones for Minefly.
 
 ## Introduction
 We can understand you may not have much experience with GitHub, therefore we've created a guide to all you need to know for contributing to Minefly.
